@@ -10,8 +10,8 @@
 
 ### Windows
 
-| Architecture | Installer | Portable |
-|:-------------|:----------|:---------|
+| Architecture | Installer |
+|:-------------|:----------|
 | x64 | [Setup EXE](https://github.com/RonnyFX/RenoarX/releases)
 
 ## Features

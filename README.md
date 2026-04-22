@@ -12,7 +12,7 @@
 
 | Architecture | Installer | Portable |
 |:-------------|:----------|:---------|
-| x64 | [Setup EXE]([https://github.com/INCY-DEV/incy-platforms/releases/latest/download/incy-windows-setup.exe](https://github.com/RonnyFX/RenoarX/releases))
+| x64 | [Setup EXE]((https://github.com/RonnyFX/RenoarX/releases)
 
 ## Features
 - **Modern UI** -- based on the winui3 framework

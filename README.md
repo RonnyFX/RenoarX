@@ -17,3 +17,4 @@
 ## Features
 - **Modern UI** -- based on the winui3 framework
 - **Fully powered by XRay-core technologies** -- xray tun, xray json with zero override
+- **Notifications in headers** -- you can send notifications to your users right in the app

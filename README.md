@@ -22,9 +22,8 @@
 ## Notifications usage
 | Key | Value |
 |:-------------|:----------|
-```bash
-renoarx-notification: json or base64 format
-```
+| renoarx-notification | json or base64 format
+
 Example in json before encode:
 ```json
 {

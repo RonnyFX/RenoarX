@@ -20,10 +20,12 @@
 - **Notifications in headers** -- you can send notifications to your users right in the app
 
 ## Notifications usage
+| Key | Value |
+|:-------------|:----------|
 ```bash
 renoarx-notification: json or base64 format
 ```
-Example in json before decode:
+Example in json before encode:
 ```json
 {
   "id": "1",
@@ -35,4 +37,5 @@ Example in json before decode:
   "expiresAt": "2026-04-28T00:00:00Z"
 }
 ```
+*The fields `ActionText`, `actionUrl` and `expiresAt` are optional. `severity` supports the values `error`, `warning`, `informative`, `success`; if the value is unknown, the notification is considered informational. The `id` must be unique and stable for a specific notification: the client remembers from it that the user has already closed the notification.
 </details>
